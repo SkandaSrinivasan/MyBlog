@@ -9,9 +9,6 @@ export const resolvers = {
       },
       allPosts: () => {
         return prisma.post.findMany();
-      },
-      findPost: (id:string) => {
-        return prisma.post.findUnique(id);
       }
     }
   };

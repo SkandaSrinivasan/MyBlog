@@ -1,3 +1,3 @@
 # MyBlog - 
 
-### Built with Express, GraphQL, Prisma and React with vite
+### Built with GraphQL(Apollo Server), Prisma and React with vite
